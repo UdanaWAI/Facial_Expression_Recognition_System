@@ -57,7 +57,7 @@ I used the **Face Expression Recognition Dataset** from Kaggle:
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/UdanaWAI/Facial_Expression_Recognition_System.git>
    ```
 2. Install required dependencies (TensorFlow, OpenCV, NumPy, etc.).
 3. Run the desired Jupyter Notebook for training, evaluation, or real-time emotion detection.
